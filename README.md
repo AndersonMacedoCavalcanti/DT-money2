@@ -9,7 +9,6 @@ https://user-images.githubusercontent.com/49853451/191588382-a8605f64-6fd6-4365-
 <ul>
   <li>ReactJS</li>
   <li>Typescript</li>
-  <li>NextJS</li>
   <li>Styled components</li>
   <li>Phosphor react</li>
   <li>Zod</li>
