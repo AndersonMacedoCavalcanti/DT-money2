@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d1e33bbc-57d5-412b-ab9f-43f7f96518d3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DT-money.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dt-money/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dt-money/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dt-money/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dt-money/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dt-money/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dt-money/server.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dt-money/src/@Types/styled.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dt-money/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dt-money/src/assets/Logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dt-money/src/components/Header/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dt-money/src/components/Header/styled.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dt-money/src/components/NewTransactionModal/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dt-money/src/components/NewTransactionModal/styled.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dt-money/src/components/Summary/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dt-money/src/components/Summary/styled.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dt-money/src/context/TransactionsContext.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dt-money/src/lib/axios.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dt-money/src/main.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dt-money/src/pages/Transactions/components/SearchForm/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dt-money/src/pages/Transactions/components/SearchForm/styles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dt-money/src/pages/Transactions/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dt-money/src/pages/Transactions/styled.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dt-money/src/styles/globalStyle.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dt-money/src/styles/themes/default.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dt-money/src/utils/formatter.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dt-money/src/vite-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dt-money/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dt-money/tsconfig.node.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dt-money/vite.config.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DqFD0MhnXykXMeqneNRvoVCk3s" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "code.cleanup.on.save": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "nodejs_package_manager_path": "npm",
+    "rearrange.code.on.save": "true",
+    "settings.editor.selected.configurable": "preferences.general",
+    "ts.external.directory.path": "C:\\Users\\ander\\IdeaProjects\\DT-money\\dt-money\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ander\IdeaProjects\DT-money\dt-money" />
+      <recent name="C:\Users\ander\IdeaProjects\DT-money\dt-money\src" />
+      <recent name="C:\Users\ander\IdeaProjects\DT-money\dt-money\src\assets" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1e33bbc-57d5-412b-ab9f-43f7f96518d3" name="Changes" comment="" />
+      <created>1661418610752</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661418610752</updated>
+      <workItem from="1661418632829" duration="20599000" />
+      <workItem from="1661456494019" duration="47000" />
+      <workItem from="1661462291551" duration="12000" />
+      <workItem from="1663784930490" duration="799000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
